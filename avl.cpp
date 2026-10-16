@@ -1,6 +1,5 @@
 
-// Plantilla AVL - CS2023 AED (UTEC)
-// Autor: Saul Baltazar Palomino (SAULABP)
+// Plantilla AVL
 // Convencion de Racso: altura(nullptr) = -1, hoja = 0
 
 #include <iostream>
