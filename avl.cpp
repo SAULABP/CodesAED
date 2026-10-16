@@ -1,6 +1,6 @@
 
 // Plantilla AVL
-// Convencion de Racso: altura(nullptr) = -1, hoja = 0
+// Convencion Racso: altura(nullptr) = -1, hoja = 0
 
 #include <iostream>
 #include <algorithm>
