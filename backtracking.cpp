@@ -1,8 +1,5 @@
-// =============================================================
-// Plantilla Backtracking - CS2023 AED (UTEC)
-// Autor: Saul Baltazar Palomino (SAULABP)
+// Plantilla Backtracking 
 // Patron de todo: caso base -> for(opciones) { if(valida) { hacer; explorar; deshacer; } }
-// =============================================================
 #include <iostream>
 #include <vector>
 #include <algorithm>
